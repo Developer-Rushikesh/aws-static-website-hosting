@@ -5,11 +5,9 @@ This project demonstrates how to deploy a static website using AWS cloud service
 
 The website is hosted on Amazon S3 and delivered globally using Amazon CloudFront CDN with HTTPS enabled.
 
----
+## 🌍 Live Demo
 
-## 🏗️ Architecture Diagram
-
-![Architecture](images/architecture.png)
+👉https://d3d6j3ncte1dxx.cloudfront.net/
 
 ---
 
@@ -80,4 +78,4 @@ The website is hosted on Amazon S3 and delivered globally using Amazon CloudFron
 ---
 
 ## 👨‍💻 Author
-Your Name
+Rushikesh Pawar
